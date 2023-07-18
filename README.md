@@ -11,4 +11,4 @@ Every node at a particular address has the following components -
 What the circuit does is that it traverses through the linked list and outputs the address as well as the data of the minimum data element.
 
 ## Circuital Solution
-<img src="Circuit Diagram.png >
+<img src="Circuit Diagram.png">
